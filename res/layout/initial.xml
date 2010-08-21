@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout 
+  xmlns:android="http://schemas.android.com/apk/res/android" 
+  android:id="@+id/mainLayout"
+  android:orientation="vertical" 
+  android:layout_width="fill_parent" 
+  android:layout_height="fill_parent"
+  android:background="@drawable/initial"
+  
+>
+	<ImageView android:id="@+id/imgTitle"
+			android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:src="@drawable/title"
+             />
+             
+     <RelativeLayout android:id="@+id/lytMainText"
+    		android:layout_width="fill_parent"
+    		android:layout_height="fill_parent"
+    		android:layout_below="@+id/imgTitle"
+    		android:background="#65658A"
+    		android:visibility="gone"
+    		>
+        <RelativeLayout 
+        	android:layout_width="fill_parent"
+        	android:layout_height="fill_parent"
+       	>
+      	<TextView android:id="@+id/txtTitle"
+         	android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Title"
+            android:layout_alignParentTop="true"
+            android:textColor="#9C9CD6"
+        	android:textSize="20dip"
+        	android:textStyle="bold"
+            />
+            
+        <ScrollView   
+       		android:id="@+id/ScrollViewBody"  
+      		android:layout_height="fill_parent"   
+      		android:layout_width="fill_parent"
+      		android:layout_below="@+id/txtTitle"
+      		> 
+        <TextView android:id="@+id/txtBody"
+         	android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="context body\ncontext body\ncontext body\n"
+            android:textColor="#D6D6D6"
+        	android:textSize="20dip"
+        	android:textStyle="normal"
+            />
+        </ScrollView>
+       		
+       		
+       		<Button android:id="@+id/btnPrevious"
+           	android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/Previous"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+             />
+             <Button android:id="@+id/btnNext"
+           	android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/Next"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+             />
+        </RelativeLayout>
+   		
+	</RelativeLayout> 
+	
+	<Button android:id="@+id/btnNewRosary"
+           	android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/imgBackground"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:text="@string/NewRosary"
+             />
+</RelativeLayout> 

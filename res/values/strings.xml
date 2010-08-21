@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="Quit">Salir</string>
+    <string name="NewRosary">Nuevo Rosario</string>
+    <string name="Main">Volver</string>
+    <string name="Previous">Anterior</string>
+    <string name="Next">Siguiente</string>
+    <string name="SelectMisteries">Seleccion los Misterios</string>
+    <string name="app_name">Santo Rosario</string>
+    
+    <string name="OurFatherTitle">Rezar el Padrenuestro</string>
+    <string name="OurFather">Padre nuestro, que estas en el cielo, santificado sea tu Nombre; venga a nosotros tu reino; hagase tu voluntad, en la tierra como en el cielo. Danos hoy nuestro pan de cada dia; perdona nuestras ofensas, como tambien nosotros perdonamos a los que nos ofende; no nos dejes caer en tentacion y libranos del mal. Amen.</string>
+    <string name="HailMary">Dios te salve, María; llena eres de gracia; el Señor es contigo; bendita tú eres entre todas las mujeres, y bendito es el fruto de tu vientre, Jesús. Santa María, Madre de Dios, ruega por nosotros, pecadores, ahora y en la hora de nuestra muerte. Amén.</string>
+    
+    <string name="GloryTitle">Gloria</string>
+    <string name="Glory">Gloria al Padre, y al Hijo, y al Espíritu Santo. Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.</string>
+    
+    <string name="JaculatoriaTitle">Jaculatoria</string>
+    <string name="Jaculatoria">
+María, Madre de gracia, Madre de misericordia, defiéndenos de nuestros enemigos y ampáranos ahora y en la hora de nuestra muerte. Amén.
+\n\n
+Oh Jesús, perdónanos nuestros pecados, sálvanos del fuego del infierno y guía todas las almas al Cielo, especialmente aquellas que necesitan más de tu misericordia. (Oración de Fátima).
+    </string>
+    
+    
+    <string name="Step0Title">Hacer la señal de la cruz</string>
+    <string name="Step0Body">Por la señal de la Santa Cruz, de nuestros enemigos libranos Señor, Dios nuestro.\nEn el nombre del padre, y del Hijo, y del Espisiritu Santo. Amen.</string>
+    
+    <string name="Step2Title">Simbolo de los Apostoles (Credo)</string>
+    <string name="Step2Body">Creo en Dios Padre Todopoderoso, Creador del cielo y la tierra: Y en Jesucristo su único Hijo, nuestro Señor, que fue concebido por el Espíritu Santo, nació de la virgen María, padeció bajo Poncio Pilato, fue crucificado, muerto y sepultado, descendió a los infiernos, al tercer día resucitó de entre los muertos, y subió a los cielos y está sentado a la diestra de Dios Padre Todopoderoso, desde allí ha de venir a juzgar a los vivos ya los muertos. Creo en el Espíritu Santo, la santa iglesia católica, la comunión de los santos, el perdón de los pecados, la resurrección de la carne y la vida eterna. Amén</string>
+    
+    <string name="Step3Title">Rezar 3 Avemarias</string>
+    <string name="Step3Body">(<![CDATA[<<Index>>]]>/3)\n<![CDATA[<<HailMary>>]]></string>
+    
+    <string name="TenHailMary">Rezar 10 Avemarias (<![CDATA[<<Index>>]]>/10)</string>
+    
+    <string name="misteryTitle">Anunciar el misterio <![CDATA[<<Index>>]]></string>
+    
+    <string name="Mistery1">Gozosos lun,sab</string>
+    <string name="Mistery2">Dolorosos mar,vie</string>
+    <string name="Mistery3">Luminosos jue</string>
+    <string name="Mistery4">Gloriosos mie/dom</string>
+    
+    <string name="Mistery1_1"><![CDATA[La Anunciación.
+(Lucas 1, 30-32, 38) 
+“El ángel le dijo: No temas, María, porque has hallado gracia
+delante de Dios, vas a concebir en el seno y vas a dar a luz un hijo,
+a quien pondrás por nombre Jesús. El será grande y será llamado
+Hijo del Altísimo (...). Dijo María: He aquí la esclava del Señor;
+hágase en mí según tú palabra.”]]>
+</string>
+<string name="Mistery1_2"><![CDATA[La Visitación (de María a su prima Santa Isabel).
+(Lucas 1, 39-43)
+“En aquellos días, se levanto María y se fue con prontitud a la 
+región montañosa, a una ciudad de Judá; entró en casa de Zacarías
+y saludó a Isabel. Y sucedió que, en cuanto oyó Isabel el saludo
+de María, saltó de gozo el niño en su seno, e Isabel quedó llena
+del Espíritu Santo; y exclamando con gran voz, dijo: bendita tú entre
+las mujeres y bendito el fruto de tu vientre; y ¿de donde a mí 
+que la madre de mi Señor venga a visitarme?” ]]>
+</string>
+<string name="Mistery1_3"><![CDATA[El Nacimiento de Jesús
+(Lucas 2, 6-11)
+“Y sucedió que, mientras ellos estaban allí se cumplieron los días
+del alumbramiento, y dio a luz a su hijo primogénito, le envolvió en
+pañales y le acostó en un pesebre, porque no tenían sitio en el
+alojamiento. Había en la misma comarca algunos pastores (...) se les
+presentó el Ángel del Señor, (...)y les dijo: no temáis, pues os anuncio
+una gran alegría, (...) os ha nacido (...) un salvador.”]]>
+</string>
+<string name="Mistery1_4"><![CDATA[La Presentación
+(Lc 2, 22-25, 34-35)
+“Llevaron a Jesús a Jerusalén para presentarle al Señor, como está
+escrito en la Ley del Señor. (...) Y he aquí que había en Jerusalén un
+hombre llamado Simeón que esperaba la consolación de Israel; y
+estaba en él el Espíritu Santo. (...)Simeón les bendijo y dijo a María,
+su madre: Éste está puesto para caída y elevación de muchos en Israel,
+y para ser señal de contradicción- ¡y a ti misma una espada te traspasará
+el alma!- a fin de que queden al descubierto las intenciones de muchos 
+corazones.”]]>
+</string>
+<string name="Mistery1_5"><![CDATA[El Niño Perdido y Hallado en el Templo
+(Lc 2, 41-47) 
+“Sus padres iban todos los años a Jerusalén a la fiesta de la Pascua. (...)
+Subieron ellos como de costumbre a la fiesta y, al volverse, pasados los
+días, el niño Jesús se quedó en Jerusalén, sin saberlo sus padres(...).
+Se volvieron a Jerusalén en su busca(...). Al cabo de tres días, le
+encontraron en el templo sentado en medio de los maestros,                      
+escuchándoles y preguntándoles; todos los que le oían, estaban       
+estupefactos por su inteligencia y sus respuestas.”]]>
+</string>
+</resources>
